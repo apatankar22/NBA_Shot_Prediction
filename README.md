@@ -1,1 +1,1 @@
-# Curry_shot_prediction
+# Prediction Shot Percentage using Neural Networks
