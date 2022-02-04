@@ -1,1 +1,1 @@
-# NBA_Shot_Prediction
+# Curry_shot_prediction
