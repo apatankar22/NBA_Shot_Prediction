@@ -1,1 +1,1 @@
-# Prediction Shot Percentage using Neural Networks
+# Predicting Shot Percentage using Neural Networks
